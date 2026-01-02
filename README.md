@@ -180,7 +180,7 @@
         </div>
         <input type="text" id="nameInput" placeholder="輸入姓名 / Enter your name"
                style="width:100%;padding:8px;margin-bottom:10px;font-size:1em;" />
-        <input type="number" id="questionLimit" placeholder="輸入題數,至多282題 / Enter number of questions"
+        <input type="number" id="questionLimit" placeholder="輸入題數,至多312題 / Enter number of questions"
                style="width:100%;padding:8px;margin-bottom:10px;font-size:1em;" />
         <!-- 新增：作答時間（分鐘），預設 80，限制 1~300 -->
         <input type="number" id="durationInput" value="80" min="1" max="300"
