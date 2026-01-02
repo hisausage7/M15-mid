@@ -2222,6 +2222,212 @@
       "C. the same RPM than the HP spool."
     ],
     answer: "A"
+  },
+  {
+    question: "Gas turbine combustion takes place at:",
+    options: [
+      "A. Constant pressure and volume",
+      "B. Constant volume and increasing pressure",
+      "C. Constant pressure and increasing volume"
+    ],
+    answer: "C"
+  },
+  {
+    question: "The main purpose of combustion is to:",
+    options: [
+      "A. Increase gas velocity",
+      "B. Increase gas pressure",
+      "C. Increase gas mass flow"
+    ],
+    answer: "A"
+  },
+  {
+    question: "Kerosene burns at maximum efficiency when the air/fuel ratio is:",
+    options: ["A. 20 : 1", "B. 10 : 1", "C. 15 : 1"],
+    answer: "C"
+  },
+  {
+    question: "The overall air/fuel ratio range of a turbine engine is:",
+    options: ["A. 130 : 1 to 145 : 1", "B. 45 : 1 to 130 : 1", "C. 10 : 1 to 20 : 1"],
+    answer: "B"
+  },
+  {
+    question: "The swirl vanes in a flame tube:",
+    options: ["A. Produce gas re-circulation", "B. Produce flame re-circulation", "C. Produce fuel swirl"],
+    answer: "A"
+  },
+  {
+    question: "Combustion chamber flame temperature is:",
+    options: ["A. 1,000°C", "B. 2,000°C", "C. 3,000°C"],
+    answer: "B"
+  },
+  {
+    question: "The air used for combustion is:",
+    options: [
+      "A. Primary and secondary air",
+      "B. Primary, secondary and tertiary air",
+      "C. Primary air only"
+    ],
+    answer: "A"
+  },
+  {
+    question: "The approximate percentage of air passing through the snout of the flame tube is:",
+    options: ["A. 80%", "B. 18%", "C. 5%"],
+    answer: "B"
+  },
+  {
+    question: "Interconnectors are used to propagate the flame and balance the gas pressure in:",
+    options: [
+      "A. An annular combustion chamber",
+      "B. A multiple combustion system only",
+      "C. Tubo-annular and multiple combustion systems"
+    ],
+    answer: "C"
+  },
+  {
+    question: "In what type of combustion system can the air casing and liner be removed as one piece during routine maintenance:",
+    options: ["A. Annular", "B. Multiple", "C. Tubo-annular"],
+    answer: "B"
+  },
+  {
+    question: "The highest heat to metal contact in a gas turbine engine occurs in the:",
+    options: ["A. Combustion chamber", "B. HP Turbine blades", "C. HP nozzle guide vanes"],
+    answer: "C"
+  },
+  {
+    question: "The reduced blade vibration and the improved gas flow in turbines is due to:",
+    options: ["A. Fir tree blade roots", "B. The blade tip shrouds", "C. The impulse section"],
+    answer: "B"
+  },
+  {
+    question: "Main engine turbine blade cross sections are:",
+    options: ["A. A combination of impulse and reaction", "B. Impulse only", "C. Reaction only"],
+    answer: "A"
+  },
+  {
+    question: "Creep in turbine blades is caused by:",
+    options: ["A. Cyclic repetitive stress loading", "B. Expansion and contraction", "C. Centrifugal force and heat"],
+    answer: "C"
+  },
+  {
+    question: "Active clearance control (ACC) is a system designed to:",
+    options: ["A. Control turbine blade tip clearance", "B. Control top temperatures", "C. Prevent labyrinth seal rub"],
+    answer: "A"
+  },
+  {
+    question: "As the gas passes through a turbine section it:",
+    options: [
+      "A. Decreases in velocity, increases in pressure and reduces in temperature",
+      "B. Increases in velocity, decreases in pressure at constant temperature",
+      "C. Decreases in pressure and temperature at constant velocity"
+    ],
+    answer: "C"
+  },
+  {
+    question: "The nozzle guide vanes:",
+    options: [
+      "A. Guide the gas flow onto the turbine blades only",
+      "B. Guide the gas flow onto the turbine blades and increase its pressure",
+      "C. Guide the gas flow onto the turbine blades and increase its velocity"
+    ],
+    answer: "C"
+  },
+  {
+    question: "The HP nozzle guide vanes are cooled with:",
+    options: ["A. Tertiary air", "B. LP interstage air", "C. HP intermediate air"],
+    answer: "A"
+  },
+  {
+    question: "The passages between adjacent nozzle guide vanes on main engines are:",
+    options: ["A. Divergent", "B. Convergent", "C. Parallel"],
+    answer: "B"
+  },
+  {
+    question: "Turbine blade material is usually:",
+    options: [
+      "A. 25% Nickel and 75% Austenitic steel",
+      "B. 75% Nickel and 25% Chromium",
+      "C. 75% Nickel and 25% Cobalt"
+    ],
+    answer: "C"
+  },
+  {
+    question: "The propelling nozzle:",
+    options: [
+      "A. Decreases the velocity and pressure of the gas stream",
+      "B. Increases the velocity and pressure of the gas stream",
+      "C. Increases the velocity and reduces the pressure of the gas stream"
+    ],
+    answer: "C"
+  },
+  {
+    question: "The jet pipe configuration that gives the least thrust loss due to friction is:",
+    options: [
+      "A. Long and large diameter",
+      "B. Short and large diameter",
+      "C. Short and small diameter"
+    ],
+    answer: "C"
+  },
+  {
+    question: "A choked propelling nozzle will:",
+    options: ["A. Cause a thrust increase", "B. Cause a thrust loss", "C. Not affect thrust"],
+    answer: "A"
+  },
+  {
+    question: "The exhaust cone will:",
+    options: [
+      "A. Increase the gas velocity and decrease the gas pressure",
+      "B. Decrease the gas velocity and increase the gas pressure",
+      "C. Decrease the gas velocity and the gas pressure"
+    ],
+    answer: "B"
+  },
+  {
+    question: "A convergent divergent propelling nozzle:",
+    options: [
+      "A. Prevents the nozzle choking",
+      "B. Produces a higher gas exit velocity after the nozzle chokes",
+      "C. Produces a higher gas exit velocity before and after the nozzle chokes"
+    ],
+    answer: "B"
+  },
+  {
+    question: "Exhaust gas noise reduction can be achieved by:",
+    options: [
+      "A. Increasing the circumference of the propelling nozzle",
+      "B. Increasing the jet pipe length",
+      "C. Increasing the exit velocity"
+    ],
+    answer: "A"
+  },
+  {
+    question: "The engine noise unit EPNdb represents the:",
+    options: [
+      "A. Equivalent Perceived Noise decibel and measures the sound and its range",
+      "B. Effective Perceived Noise decibel and measures the sound and its frequency",
+      "C. Effective Perceived Noise decibel and measures the sound and its duration"
+    ],
+    answer: "C"
+  },
+  {
+    question: "Full reverse thrust when taken as a percentage of forward thrust is:",
+    options: ["A. 50%", "B. 75%", "C. 30%"],
+    answer: "A"
+  },
+  {
+    question: "During thrust reverse, the engine exhaust is deflected:",
+    options: ["A. 45°", "B. 90°", "C. 135°"],
+    answer: "C"
+  },
+  {
+    question: "The directional control valve in a thrust reverser system is positioned by:",
+    options: [
+      "A. A mechanical signal from the strut drum box",
+      "B. An electrical signal from the throttle micro-switch",
+      "C. A signal from a proximity sensor on the reverser"
+    ],
+    answer: "A"
   }
 ]
 
